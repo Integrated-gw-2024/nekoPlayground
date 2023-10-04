@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "p5": "^1.7.0",
+    "tweakpane": "^4.0.1"
+  }
+}
